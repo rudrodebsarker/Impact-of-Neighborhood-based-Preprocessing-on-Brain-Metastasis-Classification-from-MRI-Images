@@ -464,22 +464,6 @@ F1-Score:  82-92%
 
 ---
 
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@project{metastasis_preprocessing,
-  title={Impact of Neighborhood-based Preprocessing on Brain Metastasis Classification from MRI Images},
-  author={Your Name},
-  course={CSE420 - Digital Image Processing},
-  year={2024},
-  institution={Academic Institution}
-}
-```
-
----
-
 ## License
 
 This project is provided for educational purposes. Please refer to your institution's policies regarding code usage and distribution.
